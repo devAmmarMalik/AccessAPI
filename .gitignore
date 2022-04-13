@@ -6,6 +6,9 @@ __pycache__/
 # C extensions
 *.so
 
+# Custom files
+api_Account_Info.txt
+
 # Distribution / packaging
 .Python
 build/
